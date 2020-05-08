@@ -1,5 +1,0 @@
-Rencana hasil pembelajaran
-- Membuat Web
-- Membuat kumpul bareng coding
-- Mahir javascript
-- Mahir PHP
